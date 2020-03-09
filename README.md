@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# theme:jekyll-theme-merlot
+## WELCOME TO THIS WEBSITE
+### IT IS A BIT TACKY DE TO MY NOVICE MOOD
 
 - Bulleted
 - List
